@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Registration Example</string>
-
-    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
-    <!-- Change the following strings as required -->
-    <string name="back4app_app_id">VOgBtGHBv7Gxfm3cA2u7uD1ac5xw29ZH3WBQpSK2</string>
-    <string name="back4app_client_key">Fl6kkS9HRCwRzjmteBstRwZbBFlkf2AHUzVmuSOG</string>
-</resources>
